@@ -1,12 +1,7 @@
-#!/usr/bin/env python3.6
-# chmod +x fileName.py
-
 ######################################################################################
-# CS 760, Spring 2019
-# HW 2
 # Eduardo Moura Cirilo Rocha, mouracirilor@wisc.edu
 # March of 2019
-# Problem 2: PR Curve --- Aux function, P1, but as a function
+# PR Curve --- Aux function, P1, but as a function
 ######################################################################################
 
 printResults = 0
